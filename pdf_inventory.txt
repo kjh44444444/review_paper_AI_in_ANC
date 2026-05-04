@@ -1,0 +1,6 @@
+003. 003_1991_Tichý_current_and_future_issues_of_active_noise_control.pdf | Current and future issues of active noise control.
+037. 037_2012_Aldrmaz_adaptive_fractional_fourier_domain_filtering_in_active_noise_control.pdf | Adaptive Fractional Fourier Domain Filtering in Active Noise Control
+041. 041_2013_Mazur_active_noise_control_with_a_single_nonlinear_control_filter_for_a_vibr.pdf | Active Noise Control with a Single Nonlinear Control Filter for a Vibrating Plate with Multiple Actuators
+075. 075_2020_Mondal_an_improved_all_pass_filtered_x_least_mean_square_algorithm.pdf | An Improved All-Pass Filtered x Least Mean Square Algorithm
+085. 085_2022_Wu_a_decoupling_algorithm_based_on_pid_neural_network_for_multi_channel_a.pdf | A Decoupling Algorithm Based on PID Neural Network for Multi-Channel Active Noise Control of Nonstationary Noise
+086. 086_2022_Luo_a_hybrid_sfanc_fxnlms_algorithm_for_active_noise_control_based_on_deep.pdf | A Hybrid SFANC-FxNLMS Algorithm for Active Noise Control Based on Deep Learning
