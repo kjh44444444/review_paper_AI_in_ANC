@@ -16,47 +16,47 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 5. (Masters et al., 1992) ANC foundation/application. Active control of sound radiation from a fractional-horsepower reciprocating piston compressor is experimentally investigated
 
-6. (Nelson & Elliott, 1992) ANC foundation/application. Relevant ANC contribution; inspect full paper for detailed methods and experimental conditions.
+6. (Nelson and Elliott, 1992) ANC foundation/application. Relevant ANC contribution; inspect full paper for detailed methods and experimental conditions.
 
 7. (Koshigoe et al., 1993) ANC foundation/application. A new technique for controlling noise transmission into a cavity using piezoelectric actuators on an elastic plate is discussed
 
-8. (Elliott & Nelson, 1993) ANC foundation/application. Active noise control exploits the long wavelengths associated with low frequency sound
+8. (Elliott and Nelson, 1993) ANC foundation/application. Active noise control exploits the long wavelengths associated with low frequency sound
 
 9. (Oppenheim et al., 1994) ANC foundation/application. Active noise cancellation is an approach to noise reduction in which a secondary noise source that destructively interferes with the unwanted noise is introduced
 
 10. (Bjarnason, 1995) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
-11. (Kuo & Ji, 1996) ANC foundation/application. For narrowband active noise control (ANC), the filtered-X least-mean-square (LMS) algorithm with a sinusoidal reference signal forms an adaptive notch filter
+11. (Kuo and Ji, 1996) ANC foundation/application. For narrowband active noise control (ANC), the filtered-X least-mean-square (LMS) algorithm with a sinusoidal reference signal forms an adaptive notch filter
 
-12. (Tân & Jiang, 1997) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
+12. (Tân and Jiang, 1997) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-13. (Strauch & Mulgrew, 1998) Nonlinear adaptive filtering. This paper investigates two scenarios in active noise control (ANC) that lead to performance degradation with conventional linear control techniques
+13. (Strauch and Mulgrew, 1998) Nonlinear adaptive filtering. This paper investigates two scenarios in active noise control (ANC) that lead to performance degradation with conventional linear control techniques
 
 14. (Douglas, 1999) Multichannel/distributed ANC. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
-15. (Qizhi & Yongle, 2000) Neural/fuzzy adaptive control. The active noise control (ANC) is discussed
+15. (Qizhi and Yongle, 2000) Neural/fuzzy adaptive control. The active noise control (ANC) is discussed
 
-16. (Tan & Jiang, 2001) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
+16. (Tan and Jiang, 2001) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-17. (Strauch & Mulgrew, 2002) Nonlinear adaptive filtering. The problem of active noise control in a linear duct is examined
+17. (Strauch and Mulgrew, 2002) Nonlinear adaptive filtering. The problem of active noise control in a linear duct is examined
 
 18. (Bambang, 2003) Neural/fuzzy adaptive control. Active noise cancellation using neural networks is addressed, with the aim being to derive an architecture/algorithm combination which provides spatiotemporal properties for faster convergence while maintaining a...
 
-19. (Das & Panda, 2004) Nonlinear adaptive filtering. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
+19. (Das and Panda, 2004) Nonlinear adaptive filtering. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
-20. (Kuo & Wu, 2005) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
+20. (Kuo and Wu, 2005) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
 21. (Russo, 2006) Nonlinear adaptive filtering. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
-22. (Russo & Sicuranza, 2007) Nonlinear adaptive filtering. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
+22. (Russo and Sicuranza, 2007) Nonlinear adaptive filtering. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
 23. (kunchakoori et al., 2008) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
 
-24. (Tan & Jiang, 2009) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
+24. (Tan and Jiang, 2009) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-25. (Zhang & Ren, 2010) Neural/fuzzy adaptive control. In this paper, a novel active noise control (ANC) scheme based on neural networks is presented for nonlinear ANC systems without the identification of secondary path by introducing virtual primary noises
+25. (Zhang and Ren, 2010) Neural/fuzzy adaptive control. In this paper, a novel active noise control (ANC) scheme based on neural networks is presented for nonlinear ANC systems without the identification of secondary path by introducing virtual primary noises
 
-26. (Chang & Chen, 2010) FxLMS/adaptive-filter foundation. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
+26. (Chang and Chen, 2010) FxLMS/adaptive-filter foundation. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
 27. (Krukowicz, 2010) Neural/fuzzy adaptive control. Sciendo provides publishing services and solutions to academic and professional organizations and individual authors
 
@@ -68,47 +68,47 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 31. (Zhao et al., 2011) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-32. (Das & Satapathy, 2011) Neural/fuzzy adaptive control. In this paper, we propose a computationally efficient Legendre Neural Network (LNN) for nonlinear Active Noise Cancellation(NANC)
+32. (Das and Satapathy, 2011) Neural/fuzzy adaptive control. In this paper, we propose a computationally efficient Legendre Neural Network (LNN) for nonlinear Active Noise Cancellation(NANC)
 
-33. (Sicuranza & Carini, 2011) Neural/fuzzy adaptive control. Uses functional-link neural expansions for nonlinear ANC with lower complexity than deep models.
+33. (Sicuranza and Carini, 2011) Neural/fuzzy adaptive control. Uses functional-link neural expansions for nonlinear ANC with lower complexity than deep models.
 
-34. (Sicuranza & Carini, 2011) Nonlinear adaptive filtering. In this paper, we refer to the class of recursive linear-in-parameters nonlinear filters, i.e., the filters whose output depends linearly on their coefficients
+34. (Sicuranza and Carini, 2011) Nonlinear adaptive filtering. In this paper, we refer to the class of recursive linear-in-parameters nonlinear filters, i.e., the filters whose output depends linearly on their coefficients
 
 35. (Das et al., 2012) Nonlinear adaptive filtering. In active noise control (ANC) systems, virtual microphones provide a means of projecting the zone of quiet away from the physical microphone to a remote location
 
-36. (George & Panda, 2012) Nonlinear adaptive filtering. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
+36. (George and Panda, 2012) Nonlinear adaptive filtering. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
-37. (Aldrmaz & DurakAt, 2012) ANC foundation/application. Acoustic noise control systems gain more importance as more and more industrial equipments, i.e., engines, fans, ventilators, and exhausters are in use (1-6)
+37. (Aldrmaz and DurakAt, 2012) ANC foundation/application. Acoustic noise control systems gain more importance as more and more industrial equipments, i.e., engines, fans, ventilators, and exhausters are in use (1-6)
 
 38. (Ferrer et al., 2012) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
-39. (Azadi & Ohadi, 2012) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
+39. (Azadi and Ohadi, 2012) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
 
-40. (Delvecchio & Piroddi, 2013) Nonlinear adaptive filtering. SUMMARY Active noise control problems are often affected by nonlinear effects such as distortion and saturation of measurement and actuation devices, which call for suitable nonlinear models and algorithms
+40. (Delvecchio and Piroddi, 2013) Nonlinear adaptive filtering. SUMMARY Active noise control problems are often affected by nonlinear effects such as distortion and saturation of measurement and actuation devices, which call for suitable nonlinear models and algorithms
 
-41. (Mazur & Pawełczyk, 2013) Nonlinear adaptive filtering. Abstract Vibrating plates can be used in Active Noise Control (ANC) applications as active barriers or as secondary sources replacing classical loudspeakers
+41. (Mazur and Pawełczyk, 2013) Nonlinear adaptive filtering. Abstract Vibrating plates can be used in Active Noise Control (ANC) applications as active barriers or as secondary sources replacing classical loudspeakers
 
-42. (George & González, 2013) Nonlinear adaptive filtering. Relevant ANC contribution; inspect full paper for detailed methods and experimental conditions.
+42. (George and González, 2013) Nonlinear adaptive filtering. Relevant ANC contribution; inspect full paper for detailed methods and experimental conditions.
 
 43. (Das et al., 2013) Multichannel/distributed ANC. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
 44. (Behera et al., 2013) Nonlinear adaptive filtering. Relevant ANC contribution; inspect full paper for detailed methods and experimental conditions.
 
-45. (Akraminia & Mahjoob, 2014) ANC foundation/application. Two strategies for adaptive feedback active noise control (ANC) systems are presented here based on wavelet frames
+45. (Akraminia and Mahjoob, 2014) ANC foundation/application. Two strategies for adaptive feedback active noise control (ANC) systems are presented here based on wavelet frames
 
-46. (Chang & Chu, 2014) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
+46. (Chang and Chu, 2014) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
 47. (Lorente et al., 2014) Multichannel/distributed ANC. Multichannel active noise control (ANC) systems are commonly based on adaptive signal processing algorithms that require high computational capacity, which constrains their practical implementation
 
-48. (Sahib & Kamil, 2014) Nonlinear adaptive filtering. In active noise control (ANC), the performance of the filtered-x least mean squares (FXLMS) algorithm is degraded by the saturation of the loudspeaker in the secondary path
+48. (Sahib and Kamil, 2014) Nonlinear adaptive filtering. In active noise control (ANC), the performance of the filtered-x least mean squares (FXLMS) algorithm is degraded by the saturation of the loudspeaker in the secondary path
 
 49. (Liu et al., 2014) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-50. (Singh & Panda, 2015) Nonlinear adaptive filtering. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
+50. (Singh and Panda, 2015) Nonlinear adaptive filtering. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
-51. (Lu & Zhao, 2015) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
+51. (Lu and Zhao, 2015) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-52. (Mohapatra & Kar, 2015) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
+52. (Mohapatra and Kar, 2015) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
 53. (Chen et al., 2015) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
@@ -118,9 +118,9 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 56. (Thai et al., 2016) Neural/fuzzy adaptive control. Relevant ANC contribution; inspect full paper for detailed methods and experimental conditions.
 
-57. (Babu & Rajasekaran, 2016) ANC foundation/application. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
+57. (Babu and Rajasekaran, 2016) ANC foundation/application. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
-58. (Patel & George, 2016) Nonlinear adaptive filtering. Traditional active noise control (ANC) systems, which uses a fixed tap length adaptive filter as the controller may lead to non optimal noise mitigation
+58. (Patel and George, 2016) Nonlinear adaptive filtering. Traditional active noise control (ANC) systems, which uses a fixed tap length adaptive filter as the controller may lead to non optimal noise mitigation
 
 59. (Zhao et al., 2016) Neural/fuzzy adaptive control. Uses functional-link neural expansions for nonlinear ANC with lower complexity than deep models.
 
@@ -168,11 +168,11 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 81. (Zhu et al., 2021) Nonlinear adaptive filtering. The random Fourier filter-based filtered-x least mean square (RF-FxLMS) algorithm has been proposed for the nonlinear active noise control (NANC) system to reduce the computational burden of the kernel filter
 
-82. (Zhang & Wang, 2021) Deep/generative learning. Milestone paper framing ANC as a deep-learning controller problem.
+82. (Zhang and Wang, 2021) Deep/generative learning. Milestone paper framing ANC as a deep-learning controller problem.
 
 83. (Khan et al., 2021) Nonlinear adaptive filtering. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
-84. (Huynh & Chang, 2021) Neural/fuzzy adaptive control. Noise in a dynamic system is practically unavoidable
+84. (Huynh and Chang, 2021) Neural/fuzzy adaptive control. Noise in a dynamic system is practically unavoidable
 
 85. (Wu et al., 2022) Neural/fuzzy adaptive control. It is critical to study multi-channel active noise control (ANC) systems to satisfy the requirements of noise reduction in multi-target positions
 
@@ -180,11 +180,11 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 87. (Jiang et al., 2022) Neural/fuzzy adaptive control. Traditional active noise cancellation (ANC) methods are based on adaptive signal processing with adaptive algorithms as the foundations
 
-88. (Zhang & Wang, 2022) Deep/generative learning. Extends deep-learning ANC to multichannel control.
+88. (Zhang and Wang, 2022) Deep/generative learning. Extends deep-learning ANC to multichannel control.
 
 89. (Yu et al., 2022) Nonlinear adaptive filtering. Models nonlinear ANC paths using structured nonlinear adaptive filters.
 
-90. (Huynh & Chang, 2022) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
+90. (Huynh and Chang, 2022) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
 
 91. (Xiang et al., 2023) Neural/fuzzy adaptive control. Multi-channel active noise control (ANC) has been widely used to attenuate low-frequency noise in relatively large spatial areas
 
@@ -192,13 +192,13 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 93. (Luo et al., 2023) Deep/generative learning. Develops generative fixed-filter ANC for delayless or transferable operation.
 
-94. (Mostafavi & Cha, 2023) Deep/generative learning. Constructive measures should be taken immediately to tackle urban noise pollution, which is an omnipresent but neglected threat to human health
+94. (Mostafavi and Cha, 2023) Deep/generative learning. Constructive measures should be taken immediately to tackle urban noise pollution, which is an omnipresent but neglected threat to human health
 
-95. (Doi & Kajikawa, 2023) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
+95. (Doi and Kajikawa, 2023) FxLMS/adaptive-filter foundation. Refines the filtered-reference adaptive-filter backbone used by most ANC systems.
 
 96. (Shi et al., 2023) Deep/generative learning. Practical active noise control (ANC) systems, like the active noise cancellation headphone, usually adopt a control filter with preset coefficients to achieve satisfactory noise reduction performance for dynamic noise...
 
-97. (Daniel & Mythili, 2024) Deep/generative learning. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
+97. (Daniel and Mythili, 2024) Deep/generative learning. Uses evolutionary or nature-inspired optimization for nonlinear ANC adaptation.
 
 98. (Tin et al., 2024) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
 
@@ -212,7 +212,7 @@ These notes are generated from the curated ANC-only bibliography and OpenAlex ab
 
 103. (Luo et al., 2025) Deep/generative learning. Develops generative fixed-filter ANC for delayless or transferable operation.
 
-104. (Feng & So, 2025) Deep/generative learning. Uses meta-learning and attention to improve delayless subband adaptation.
+104. (Feng and So, 2025) Deep/generative learning. Uses meta-learning and attention to improve delayless subband adaptation.
 
 105. (Nguyen et al., 2025) Neural/fuzzy adaptive control. Applies fuzzy/neuro-fuzzy learning to nonlinear or variable-step ANC adaptation.
 
